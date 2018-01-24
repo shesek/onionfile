@@ -7,6 +7,7 @@ const fs   = require('fs')
 
 cli.input[0] || cli.showHelp()
 
+app.disable('x-powered-by')
 app.use(require('morgan')('dev'))
 app.get('/', (req, res) => res.sendFile(path.resolve(cli.input[0])))
 
