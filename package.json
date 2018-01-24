@@ -1,12 +1,18 @@
 {
   "name": "onionfile",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "onionfile.js",
   "bin": "onionfile.js",
   "author": "Nadav Ivgi",
   "license": "MIT",
-  "keywords": [ "tor", "onion", "hidden-service", "file-sharing", "npx" ],
+  "keywords": [
+    "tor",
+    "onion",
+    "hidden-service",
+    "file-sharing",
+    "npx"
+  ],
   "dependencies": {
     "express": "^4.16.2",
     "hsv3": "^1.1.3",
