@@ -14,7 +14,10 @@ Use via [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runne
 
 That's it! Share the URL with the recipient to give her access to `~/shareme.txt`.
 
-Note: it might take a minute for the hidden service to become available.
+If a path to a directory is provided, the entire directory will be made accessible
+with a directory index listing all the available files.
+
+Note: it might take a few moments for the hidden service to become available.
 
 ## Installing
 
@@ -39,7 +42,7 @@ Instead of using `npx`, you may install the package locally to make it available
 
 To [Dead Canaries](http://deadcanaries.gitlab.io/)'s awesome
 [granax](https://gitlab.com/deadcanaries/granax) and [hsv3](https://gitlab.com/deadcanaries/hsv3) libraries,
-which made writing this utility a breeze (<20 LoC)!
+which made writing this utility a breeze (<30 LoC)!
 
 ## License
 

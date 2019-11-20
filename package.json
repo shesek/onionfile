@@ -17,6 +17,7 @@
     "@deadcanaries/hsv3": "^1.1.5",
     "express": "^4.17.1",
     "meow": "^5.0.0",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "serve-index": "^1.9.1"
   }
 }
