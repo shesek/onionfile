@@ -37,8 +37,8 @@ Instead of using `npx`, you may install the package locally to make it available
 
 ## Thanks
 
-To [@bookchin](https://github.com/bookchin)'s awesome
-[granax](https://github.com/bookchin/granax) and [hsv3](https://github.com/bookchin/hsv3) libraries,
+To [Dead Canaries](http://deadcanaries.gitlab.io/)'s awesome
+[granax](https://gitlab.com/deadcanaries/granax) and [hsv3](https://gitlab.com/deadcanaries/hsv3) libraries,
 which made writing this utility a breeze (<20 LoC)!
 
 ## License
